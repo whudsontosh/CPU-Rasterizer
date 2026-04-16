@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1776362275 source:o:\computerprogramming30\projects\rasterizer\src\main.cpp
+	"math.h"
+	"render.h"
+	"geometry.h"
+	<windows.h>
+	<cstring>
+	<cmath>
+	<cstdlib>
+	<vector>
+	<limits>
+
+1770749610 o:\computerprogramming30\projects\rasterizer\include\math.h
+
+1770749610 source:o:\computerprogramming30\projects\rasterizer\src\math.cpp
+	"math.h"
+	<cmath>
+
+1770823705 o:\computerprogramming30\projects\rasterizer\include\geometry.h
+	"math.h"
+	<vector>
+
+1770823705 source:o:\computerprogramming30\projects\rasterizer\src\geometry.cpp
+	"geometry.h"
+	<cstdlib>
+
+1770823184 o:\computerprogramming30\projects\rasterizer\include\render.h
+	"math.h"
+	"geometry.h"
+	<windows.h>
+	<vector>
+
+1776362612 source:o:\computerprogramming30\projects\rasterizer\src\render.cpp
+	"math.h"
+	"geometry.h"
+	"render.h"
+	<windows.h>
+	<cstring>
+	<cmath>
+	<cstdlib>
+	<vector>
+	<algorithm>
+
