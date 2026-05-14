@@ -1,0 +1,227 @@
+# depslib dependency file v1.0
+1776362275 source:o:\computerprogramming30\projects\rasterizer\src\main.cpp
+	"math.h"
+	"render.h"
+	"geometry.h"
+	<windows.h>
+	<cstring>
+	<cmath>
+	<cstdlib>
+	<vector>
+	<limits>
+
+1770749610 o:\computerprogramming30\projects\rasterizer\include\math.h
+
+1770749610 source:o:\computerprogramming30\projects\rasterizer\src\math.cpp
+	"math.h"
+	<cmath>
+
+1770823705 o:\computerprogramming30\projects\rasterizer\include\geometry.h
+	"math.h"
+	<vector>
+
+1770823705 source:o:\computerprogramming30\projects\rasterizer\src\geometry.cpp
+	"geometry.h"
+	<cstdlib>
+
+1770823184 o:\computerprogramming30\projects\rasterizer\include\render.h
+	"math.h"
+	"geometry.h"
+	<windows.h>
+	<vector>
+
+1776362612 source:o:\computerprogramming30\projects\rasterizer\src\render.cpp
+	"math.h"
+	"geometry.h"
+	"render.h"
+	<windows.h>
+	<cstring>
+	<cmath>
+	<cstdlib>
+	<vector>
+	<algorithm>
+
+1778253938 source:c:\users\williamt\downloads\cpu-rasterizer-main\cpu-rasterizer-main\rasterizer-v1.0\src\geometry.cpp
+	"geometry.h"
+	<cstdlib>
+
+1778167507 c:\users\williamt\downloads\cpu-rasterizer-main\cpu-rasterizer-main\rasterizer-v1.0\include\geometry.h
+	"math.h"
+	<vector>
+
+1778167507 c:\users\williamt\downloads\cpu-rasterizer-main\cpu-rasterizer-main\rasterizer-v1.0\include\math.h
+
+1778251796 source:c:\users\williamt\downloads\cpu-rasterizer-main\cpu-rasterizer-main\rasterizer-v1.0\src\main.cpp
+	"math.h"
+	"render.h"
+	"geometry.h"
+	<windows.h>
+	<cstring>
+	<cmath>
+	<cstdlib>
+	<vector>
+	<limits>
+
+1778167507 c:\users\williamt\downloads\cpu-rasterizer-main\cpu-rasterizer-main\rasterizer-v1.0\include\render.h
+	"math.h"
+	"geometry.h"
+	<windows.h>
+	<vector>
+
+1778167507 source:c:\users\williamt\downloads\cpu-rasterizer-main\cpu-rasterizer-main\rasterizer-v1.0\src\math.cpp
+	"math.h"
+	<cmath>
+
+1778254022 source:c:\users\williamt\downloads\cpu-rasterizer-main\cpu-rasterizer-main\rasterizer-v1.0\src\render.cpp
+	"math.h"
+	"geometry.h"
+	"render.h"
+	<windows.h>
+	<cstring>
+	<cmath>
+	<cstdlib>
+	<vector>
+	<algorithm>
+
+1778684748 source:c:\users\williamt\downloads\rasterizer-v1.1\rasterizer-v1.1\rasterizer-v1.0\src\geometry.cpp
+	"geometry.h"
+	<cstdlib>
+
+1778167507 c:\users\williamt\downloads\rasterizer-v1.1\rasterizer-v1.1\rasterizer-v1.0\include\geometry.h
+	"math.h"
+	<vector>
+
+1778167507 c:\users\williamt\downloads\rasterizer-v1.1\rasterizer-v1.1\rasterizer-v1.0\include\math.h
+
+1778686886 source:c:\users\williamt\downloads\rasterizer-v1.1\rasterizer-v1.1\rasterizer-v1.0\src\main.cpp
+	"math.h"
+	"render.h"
+	"geometry.h"
+	<windows.h>
+	<vector>
+	<thread>
+	<algorithm>
+	<cmath>
+
+1778514406 c:\users\williamt\downloads\rasterizer-v1.1\rasterizer-v1.1\rasterizer-v1.0\include\render.h
+	"math.h"
+	"geometry.h"
+	<windows.h>
+	<vector>
+
+1778167507 source:c:\users\williamt\downloads\rasterizer-v1.1\rasterizer-v1.1\rasterizer-v1.0\src\math.cpp
+	"math.h"
+	<cmath>
+
+1778687402 source:c:\users\williamt\downloads\rasterizer-v1.1\rasterizer-v1.1\rasterizer-v1.0\src\render.cpp
+	"math.h"
+	"geometry.h"
+	"render.h"
+	<windows.h>
+	<cstring>
+	<cmath>
+	<cstdlib>
+	<vector>
+	<algorithm>
+
+1778704547 source:o:\computerprogramming30\projects\rasterizer-v2.0\src\geometry.cpp
+	"geometry.h"
+	<cstdlib>
+
+1778703395 o:\computerprogramming30\projects\rasterizer-v2.0\include\geometry.h
+	"math.h"
+	<vector>
+
+1778167507 o:\computerprogramming30\projects\rasterizer-v2.0\include\math.h
+
+1778167507 source:o:\computerprogramming30\projects\rasterizer-v2.0\src\math.cpp
+	"math.h"
+	<cmath>
+
+1778705602 source:o:\computerprogramming30\projects\rasterizer-v2.0\src\render.cpp
+	"math.h"
+	"geometry.h"
+	"render.h"
+	<windows.h>
+	<cstring>
+	<cmath>
+	<cstdlib>
+	<vector>
+	<algorithm>
+
+1778705449 o:\computerprogramming30\projects\rasterizer-v2.0\include\render.h
+	"math.h"
+	"geometry.h"
+	<windows.h>
+	<vector>
+
+1778703917 source:o:\computerprogramming30\projects\rasterizer-v2.0\src\main.cpp
+	"math.h"
+	"render.h"
+	"geometry.h"
+	<windows.h>
+	<vector>
+	<thread>
+	<algorithm>
+	<cmath>
+	<atomic>
+	<thread>
+	<string>
+	<iostream>
+
+1778773166 source:o:\computerprogramming30\projects\rasterizer-v2.1\src\geometry.cpp
+	"geometry.h"
+	<cstdlib>
+
+1778773166 o:\computerprogramming30\projects\rasterizer-v2.1\include\geometry.h
+	"math.h"
+	<vector>
+
+1778167507 o:\computerprogramming30\projects\rasterizer-v2.1\include\math.h
+
+1778167507 source:o:\computerprogramming30\projects\rasterizer-v2.1\src\math.cpp
+	"math.h"
+	<cmath>
+
+1778772228 source:o:\computerprogramming30\projects\rasterizer-v2.1\src\render.cpp
+	"math.h"
+	"geometry.h"
+	"render.h"
+	"texture.h"
+	<windows.h>
+	<cstring>
+	<cmath>
+	<cstdlib>
+	<vector>
+	<algorithm>
+
+1778772159 o:\computerprogramming30\projects\rasterizer-v2.1\include\render.h
+	"math.h"
+	"geometry.h"
+	"texture.h"
+	<windows.h>
+	<vector>
+
+1778772044 source:o:\computerprogramming30\projects\rasterizer-v2.1\src\main.cpp
+	"math.h"
+	"render.h"
+	"geometry.h"
+	"texture.h"
+	<windows.h>
+	<vector>
+	<thread>
+	<algorithm>
+	<cmath>
+	<atomic>
+	<thread>
+	<string>
+	<iostream>
+
+1778771969 o:\computerprogramming30\projects\rasterizer-v2.1\include\texture.h
+	"math.h"
+	<vector>
+	<fstream>
+
+1778772874 source:o:\computerprogramming30\projects\rasterizer-v2.1\src\texture.cpp
+	"texture.h"
+
